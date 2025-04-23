@@ -34,3 +34,7 @@
 ## Ejemplo de uso
 
 Puedes probar la aplicación con un archivo de texto simulado. Asegúrate de que el texto esté estructurado como un chat y en formato .txt
+
+## Autor
+
+Desarrollado por Eduardo Évora
