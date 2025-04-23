@@ -12,7 +12,7 @@
 
 ## Cómo usar
 
-1. **Descarga la última versión** desde la [sección de Releases](https://github.com/tuusuario/mrs5g/releases).
+1. **Descarga la última versión** desde la https://github.com/7evhack/DETECTOR-DE-GROOMING-MRS5G.git
 2. Extrae y ejecuta el archivo `MRS5G.exe` (no requiere instalación).
 3. Selecciona un archivo de texto con chats.
 4. Espera el análisis y revisa el informe de riesgo generado.
