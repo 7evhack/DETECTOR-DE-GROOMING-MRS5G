@@ -40,6 +40,8 @@
 
 Puedes probar la aplicación con un archivo de texto simulado. Asegúrate de que el texto esté estructurado como un chat y en formato .txt
 
+*Este software tiene fines educativos y de concientización. No reemplaza análisis forenses oficiales o intervención legal.*
+
 ## Autor
 
 Desarrollado por Eduardo Évora
