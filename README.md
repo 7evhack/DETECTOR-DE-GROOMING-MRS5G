@@ -1,6 +1,6 @@
 # MRS5G - Analizador Semántico de Chats para Detección de Grooming
 
-**MRS5G** (Método de Riesgos Semántico 5G) es una aplicación diseñada para analizar conversaciones en formato `.txt` y detectar patrones de riesgo relacionados con grooming. Utiliza un enfoque semántico para identificar palabras, frases y emoticones asociadas a las cinco fases del grooming, asignando un nivel de riesgo al contenido analizado.
+**MRS5G** (Método de Riesgos Semántico 5G) es una aplicación diseñada para analizar conversaciones en formato `.txt` y detectar patrones de riesgo relacionados con grooming. Utiliza un enfoque semántico para identificar palabras, frases y emoticones asociadas a las fases del grooming, asignando un nivel de riesgo al contenido analizado.
 
 ## Características
 
