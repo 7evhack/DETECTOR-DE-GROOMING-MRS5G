@@ -23,13 +23,18 @@
 - Formato de entrada: archivos `.txt` (conversaciones)
 - No requiere instalación ni conexión a internet
 
-## Fases del Grooming Detectadas
+## Fases del Grooming 
 
-1. **Amistad inicial**
-2. **Formación de relación**
-3. **Ruptura de barreras**
-4. **Explotación**
-5. **Silencio o chantaje**
+-Selección de la víctima
+
+-Generación de vínculo y confianza
+
+-Aislamiento de la víctima
+
+-Sexualización de la conversación
+
+-Abuso o explotación (virtual o presencial)
+
 
 ## Ejemplo de uso
 
